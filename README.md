@@ -1,2 +1,5 @@
 # amp-todo
-Sample test app
+
+Amplication test app
+
+Bassed on https://docs.amplication.com/docs/tutorials/react-todos/ 
